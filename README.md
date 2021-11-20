@@ -4,8 +4,11 @@ The game of Hangman for the coding challenge
 This challenge was completed in 3 hours, from 10:30 am - 1:30 pm, Saturday Nov 20
 
 *****Notes*****
+
 Choose word -> Welcome player ->
+
 (LOOP): Show hangman -> show Word (Jan_a_y) -> promp letter -> check in mysteryWord for letter ->
+
 Check for win/loose -> retry?
 
 
