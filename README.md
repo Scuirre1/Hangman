@@ -12,14 +12,23 @@ Choose word -> Welcome player ->
 Check for win/loose -> retry?
 
 
+__________
+
 Class word
+
 Public
+
 Void setword (string mysteryWord)
+
 Void ChooseLetter(char player guess)
+
 Int getGuessesLeft()
+
 Void dispWord
 
+
 Private
+
 Char charArray
 
 
